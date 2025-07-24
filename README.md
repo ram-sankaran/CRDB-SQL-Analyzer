@@ -10,7 +10,7 @@ Analyze CockroachDB statement bundles and get LLM-powered performance recommenda
 
 
 
-# How It Works
+## How It Works
 - Upload statement bundle (.zip)
 - Analyzer extracts files: sql, plan.txt, trace.txt, schema.sql, env.sql
 - Calls LLM to analyze the bundle 
