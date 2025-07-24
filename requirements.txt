@@ -1,0 +1,3 @@
+flask            # Web framework for the UI
+requests         # To communicate with Ollama locally
+markdown         # Converts LLM output into HTML
