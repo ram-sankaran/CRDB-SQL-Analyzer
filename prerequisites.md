@@ -26,5 +26,6 @@ markdown
     http://localhost:5050
 
 ##  Make sure Ollama and mistral LLM are  running locally:
-   ollama serve
+   ```ollama serve  
    ollama run Mistral
+```
