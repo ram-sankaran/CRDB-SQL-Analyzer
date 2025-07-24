@@ -14,7 +14,7 @@ markdown
 ## 1. Create and activate a virtual environment (optional but recommended):
      python3 -m venv venv
      source venv/bin/activate  (Linux/macOS)
-    .\venv\Scripts\activate   (Windows)
+    
  
 ## 2. Install dependencies:
     pip install -r requirements.txt
