@@ -6,8 +6,8 @@ Analyze CockroachDB statement bundles and get LLM-powered performance recommenda
 
 - Upload `.zip` bundles from CockroachDB
 - View query, execution plan, trace, schema, and indexes
-- Receive AI-generated recommendations
-- Download detailed `.html` reports
+- Receive AI-generated SQL recommendations
+
 
 
 # How It Works
@@ -15,4 +15,4 @@ Analyze CockroachDB statement bundles and get LLM-powered performance recommenda
 - Analyzer extracts files: sql, plan.txt, trace.txt, schema.sql, env.sql
 - Calls LLM to analyze the bundle 
 - Displays results
-- Option to download the results . 
+
