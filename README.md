@@ -9,14 +9,6 @@ Analyze CockroachDB statement bundles and get LLM-powered performance recommenda
 - Receive AI-generated recommendations
 - Download detailed `.html` reports
 
-## Setup
-
-### Option 1: Run with Python
-
-```bash
-pip install -r requirements.txt
-python3 analyze_sql_bundle.py
-```
 
 # How It Works
 - Upload statement bundle (.zip)
