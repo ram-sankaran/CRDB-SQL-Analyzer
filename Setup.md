@@ -1,4 +1,4 @@
-#  MySQL 5.7 Setup on MacBook Using Colima (No Docker Desktop) and cockroach DB on Macbook
+#  CRDB SQL Statement bundle analyzer
 
 ---
 
