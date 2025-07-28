@@ -10,3 +10,5 @@
 ## View the details in each section and the LLM recomendations for fine tune the SQL
 
 <img width="1238" height="987" alt="image" src="https://github.com/user-attachments/assets/adb18460-bbc8-405f-8de8-539326f81c85" />
+
+<img width="1602" height="497" alt="image" src="https://github.com/user-attachments/assets/dbd6cb28-dc70-48f3-8165-5e49d3fb117a" />
